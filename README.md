@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/Banner.png" alt="Power BI Portfolio Banner" width="900">
+</p>
 
 # Power_BI_Portfolio
 A collection of Power BI dashboards built to explore data, analyze real-world business problems, answer key business questions, and turn insights into informed decisions.
