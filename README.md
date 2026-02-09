@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Readme_banner" alt="Power BI Portfolio Banner" width="900">
+  <img src="images/Readme_banner.png" alt="Power BI Portfolio Banner" width="900">
 </p>
 
 # Power_BI_Portfolio
